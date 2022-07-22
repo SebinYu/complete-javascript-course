@@ -30,6 +30,7 @@ let job2 = "teacher";
 
 console.log(myFirstJob);
 
+
 ////////////////////////////////////
 // Data Types
 let javascriptIsFun = true;
